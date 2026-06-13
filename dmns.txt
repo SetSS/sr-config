@@ -1,1 +1,11 @@
 ifconfig.io
+ifconfig.me
+icanhazip.com
+api.ipify.org
+ipinfo.io
+checkip.amazonaws.com
+ident.me
+myexternalip.com
+curlmyip.net
+wtfismyip.com
+ip.sb
